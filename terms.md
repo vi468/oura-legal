@@ -1,31 +1,31 @@
-# Условия использования
+# Terms of Service
 
-Приложение **VITCIN Oura** — личный OAuth-клиент для доступа владельца к своим данным Oura через Oura API v2.
+**VITCIN Oura** is a personal OAuth client that allows its owner to access his own Oura data through the Oura API v2.
 
-## Назначение
+## Purpose
 
-Приложение используется исключительно владельцем для личных целей: чтение и анализ собственных данных Oura.
+The application is used exclusively by its owner, for personal purposes: reading and analysing his own Oura data.
 
-## Статус
+## Status
 
-Приложение предоставляется «как есть», без каких-либо гарантий.
+The application is provided "as is", without warranties of any kind.
 
-Приложение **не является медицинским изделием** и не даёт медицинских рекомендаций. Полученные данные не заменяют консультацию врача.
+The application is **not a medical device** and does not provide medical advice. The data obtained does not replace consultation with a physician.
 
-## Круг лиц
+## Scope of use
 
-Приложение не оказывает услуг третьим лицам. Регистрации, аккаунтов и приёма пользователей нет.
+The application does not provide services to third parties. There is no registration, no accounts, and no users other than the owner.
 
-## Ответственность
+## Liability
 
-Владелец самостоятельно несёт ответственность за использование полученных данных и за решения, принятые на их основе.
+The owner is solely responsible for the use of the data obtained and for any decisions made on its basis.
 
-## Изменения
+## Changes
 
-Условия могут быть изменены без предварительного уведомления.
+These terms may be changed without prior notice.
 
-## Контакт
+## Contact
 
 https://github.com/vi468
 
-Последнее обновление: 10 октября 2026 г.
+Last updated: 10 October 2026.

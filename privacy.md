@@ -1,33 +1,33 @@
-# Политика конфиденциальности
+# Privacy Policy
 
-Приложение **VITCIN Oura** — личный OAuth-клиент, созданный и используемый одним человеком (его владельцем) для доступа к своим собственным данным Oura.
+**VITCIN Oura** is a personal OAuth client created and used by a single individual — its owner — to access his own Oura data.
 
-## Какие данные запрашиваются
+## What data is requested
 
-Только данные владельца из его собственного аккаунта Oura: сон, готовность, активность, пульс и его вариабельность, тренировки, сессии, теги, сатурация.
+Only the owner's own data from his own Oura account: sleep, readiness, activity, heart rate, heart rate variability, workouts, sessions, tags and SpO2.
 
-## Где они обрабатываются
+## Where it is processed
 
-Локально на личном компьютере владельца. Собственного сервера у приложения нет: запросы к Oura API идут напрямую с личной машины.
+Locally, on the owner's personal computer. The application has no server of its own: requests to the Oura API are made directly from the owner's own machine.
 
-## Кому передаются
+## Who it is shared with
 
-Никому. Данные не передаются, не продаются, не публикуются и не раскрываются третьим лицам ни в каком виде.
+No one. The data is not transferred, sold, published or disclosed to any third party in any form.
 
-## Что хранится
+## What is stored
 
-Только токены доступа к API Oura — в файле на личном компьютере владельца, с ограниченными правами доступа. Сами данные Oura на сторонних серверах не хранятся.
+Only OAuth access tokens — in a file on the owner's personal computer, with restricted file permissions. Oura data itself is not stored on any third-party server.
 
-## Чужие данные
+## Third-party data
 
-Приложение не собирает данные других людей. Аккаунтов, регистрации и приёма пользователей нет.
+The application does not collect data about other people. There are no accounts, no sign-ups, and no users other than the owner.
 
-## Отзыв доступа
+## Revoking access
 
-Владелец может в любой момент отозвать доступ приложения в настройках своего аккаунта Oura, после чего доступ немедленно прекращается.
+The owner may revoke the application's access at any time in his Oura account settings, after which access stops immediately.
 
-## Контакт
+## Contact
 
 https://github.com/vi468
 
-Последнее обновление: 10 октября 2026 г.
+Last updated: 10 October 2026.
